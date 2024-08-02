@@ -1,4 +1,4 @@
-vector<vi> gr(n);
+vector<vector<int>> gr(n);
 queue<int> q;
 vector<bool> vis(n, 0);
 q.push(0);

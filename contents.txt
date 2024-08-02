@@ -5,15 +5,21 @@
 
 [C++]
 c++/template.cpp	C++ template
+c++/template-alecastro.cpp	C++ Template de Ale Castro
 
 [Graph algorithms]
+graph/bfs.cpp BFS
+graph/dfs.cpp DFS
 graph/dijkstra.cpp	Dijkstra
+graph/bellman-ford.cpp Bellman Ford
+graph/floyd-warshall.cpp Floyd Warshall
 
 [Flows]
 flows/hungarian.cpp	Hungarian Algorithm
 
 [Data Structures]
 data-structures/unionfind.cpp	Disjoint Set Union
+data-structures/segment-tree.cpp Segment Tree
 
 [Math]
 math/sieve_eratosthenes.cpp	Sieve of Eratosthenes
