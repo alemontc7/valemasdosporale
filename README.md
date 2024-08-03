@@ -1,6 +1,6 @@
 # Vale más dos por Ale
 
-Repositorio oficial del equipo Vale + 2 x Ale ![formula matemática](https://latex.codecogs.com/svg.latex?Vale%20+%202%20\times%20Ale) de la Universidad Católica Boliviana Sede Cochabamba.
+Repositorio oficial del equipo Vale + 2 x Ale de la Universidad Católica Boliviana Sede Cochabamba.
 
 Somos una Vale y dos Ales.
 
